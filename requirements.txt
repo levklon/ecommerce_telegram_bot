@@ -1,0 +1,5 @@
+flask
+pymongo
+python-telegram-bot
+stripe
+python-dotenv
